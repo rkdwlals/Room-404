@@ -19,9 +19,3 @@
 - Cubase로 BGM 3곡을 작곡하고, 곡을 차례로 트는 재생 목록 스크립트 작성
 
 소리 출처: 회복음, 재장전음, BGM 3곡은 직접 제작. 킬 사운드와 총소리 등은 외부 소스를 사용했고, BGM 중 1곡은 기존 곡입니다.
-
-## 파일
-
-- `room404.rbxl`: 게임 place 파일. Roblox Studio에서 File → Open from File로 열 수 있습니다. 팀 전체 작업이 들어 있습니다.
-
-README 정리는 Claude(AI)의 도움을 받았습니다.
